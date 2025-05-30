@@ -5,8 +5,14 @@
 			<Item Name="Caption" Value="Realty form page" />
 			<Item Name="LocalizableStrings.addRecord_2sqzws6_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_4di3l6r_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_barrn74_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_iptj8y2_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rf5xeee_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_uyyrgx8_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100 sq ft" />
+			<Item Name="LocalizableStrings.DateMustBeGreaterThanTodayDate.Value" Value="Deadline date must be greater than today date" />
+			<Item Name="LocalizableStrings.NumberInput_nm41dze_label.Value" Value="Number" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 USD" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
