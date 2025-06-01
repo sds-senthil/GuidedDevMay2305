@@ -299,6 +299,31 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="Terrasoft.Authentication.Contract">
+			<HintPath>$(CoreLibPath)/Terrasoft.Authentication.Contract.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Terrasoft.SmsIntegration">
+			<HintPath>$(CoreLibPath)/Terrasoft.SmsIntegration.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Common.Logging">
+			<HintPath>$(CoreLibPath)/Common.Logging.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Common.Logging.Core">
+			<HintPath>$(CoreLibPath)/Common.Logging.Core.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Creatio.Copilot.Abstractions">
+			<HintPath>$(CoreLibPath)/Creatio.Copilot.Abstractions.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Package References">
 		<Reference Include="CrtDocument">

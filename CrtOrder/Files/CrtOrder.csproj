@@ -324,6 +324,21 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="Terrasoft.Authentication.Contract">
+			<HintPath>$(CoreLibPath)/Terrasoft.Authentication.Contract.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Terrasoft.SmsIntegration">
+			<HintPath>$(CoreLibPath)/Terrasoft.SmsIntegration.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Creatio.Copilot.Abstractions">
+			<HintPath>$(CoreLibPath)/Creatio.Copilot.Abstractions.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Package References">
 		<Reference Include="Terrasoft.Configuration">
@@ -342,7 +357,12 @@
 			<Private>False</Private>
 		</Reference>
 	</ItemGroup>
-	<ItemGroup Label="Standalone package external assembly references"></ItemGroup>
+	<ItemGroup Label="Standalone package external assembly references">
+		<Reference Include="$(RelativePkgFolderPath)/../Lib/System.Web.Services.CrtProcessDesigner.dll">
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+	</ItemGroup>
 	<ItemGroup Label="Entity Files">
 		<Compile Remove="$(RelativePkgFolderPath)/CrtOrder/Schemas/Activity/Activity.cs" Condition="Exists('$(RelativePkgFolderPath)/CrtOrder/Schemas/Activity/Activity.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/CrtOrder/Schemas/Call/Call.cs" Condition="Exists('$(RelativePkgFolderPath)/CrtOrder/Schemas/Call/Call.cs')" />

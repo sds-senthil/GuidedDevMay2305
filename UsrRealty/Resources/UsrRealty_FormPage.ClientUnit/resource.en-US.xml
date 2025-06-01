@@ -10,7 +10,16 @@
 			<Item Name="LocalizableStrings.addRecord_rf5xeee_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_uyyrgx8_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100 sq ft" />
+			<Item Name="LocalizableStrings.Button_w74s2x5_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.DateMustBeGreaterThanTodayDate.Value" Value="Deadline date must be greater than today date" />
+			<Item Name="LocalizableStrings.ExpansionPanel_d8uq06e_title.Value" Value="Realty visit" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_ho9yxtx_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_6e91ilc_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_4bj72x4_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_2kviik5_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_a6bg7k5_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_a4wbknk_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MenuItem_mvdm341_caption.Value" Value="Calculate average realty price process" />
 			<Item Name="LocalizableStrings.NumberInput_nm41dze_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 USD" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />

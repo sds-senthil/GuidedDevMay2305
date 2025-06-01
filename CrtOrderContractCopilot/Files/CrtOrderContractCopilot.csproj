@@ -343,7 +343,7 @@
 		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references">
-		<Reference Include="$(RelativePkgFolderPath)/CrtProcessDesigner/Assemblies/System.Web.Services/System.Web.Services.dll">
+		<Reference Include="$(RelativePkgFolderPath)/../Lib/System.Web.Services.CrtProcessDesigner.dll">
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
